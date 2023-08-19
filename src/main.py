@@ -25,7 +25,7 @@ def main():
     current_page = lastpage + 1
 
     scraped_page = 0
-    target_page = 2 # random.choice([4, 10, 15, 20])  # Choose a random minimum number of elements to retrieve
+    target_page = random.choice([4, 10, 15, 20])  # Choose a random minimum number of elements to retrieve
     print(f'We wanna scrape {target_page} pages')
 
     with open(csv_file_path, mode='a', newline='') as file:
