@@ -1,0 +1,9 @@
+2023-08-22 00:53:34,370 - scraper_helper - INFO - First time creating : /home/runner/work/github-webscraping-lab/github-webscraping-lab/data/manga_database.csv file
+2023-08-22 00:53:37,970 - scraper_helper - INFO - 70 found on page : 1
+2023-08-22 00:53:45,019 - scraper_helper - INFO - Scraped: https://www.mangahere.cc/directory/1.htm?az
+2023-08-22 00:53:46,149 - scraper_helper - INFO - 70 found on page : 2
+2023-08-22 00:53:53,109 - scraper_helper - INFO - Scraped: https://www.mangahere.cc/directory/2.htm?az
+2023-08-22 00:53:54,351 - scraper_helper - INFO - 70 found on page : 3
+2023-08-22 00:54:01,175 - scraper_helper - INFO - Scraped: https://www.mangahere.cc/directory/3.htm?az
+2023-08-22 00:54:02,478 - scraper_helper - INFO - 70 found on page : 4
+2023-08-22 00:54:09,105 - scraper_helper - INFO - Scraped: https://www.mangahere.cc/directory/4.htm?az
