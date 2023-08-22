@@ -2,7 +2,7 @@ name: Mangas scraper
 
 on:
   schedule:
-    - cron: "* */2 * * *" # Every 10 minutes
+    - cron: "*/10 * * * *" # Every 10 minutes
 
 jobs:
   build:
